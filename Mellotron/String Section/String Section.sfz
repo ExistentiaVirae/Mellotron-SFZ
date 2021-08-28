@@ -1,0 +1,323 @@
+<group>
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\G2.wav
+lokey=43 hikey=43
+pitch_keycenter=43
+offset=0
+end=166929
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\G#2.wav
+lokey=44 hikey=44
+pitch_keycenter=44
+offset=0
+end=170926
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\A2.wav
+lokey=45 hikey=45
+pitch_keycenter=45
+offset=0
+end=166921
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\A#2.wav
+lokey=46 hikey=46
+pitch_keycenter=46
+offset=0
+end=167972
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\B2.wav
+lokey=47 hikey=47
+pitch_keycenter=47
+offset=0
+end=167543
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\C3.wav
+lokey=48 hikey=48
+pitch_keycenter=48
+offset=0
+end=162314
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\C#3.wav
+lokey=49 hikey=49
+pitch_keycenter=49
+offset=0
+end=167468
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\D3.wav
+lokey=50 hikey=50
+pitch_keycenter=50
+offset=0
+end=169464
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\D#3.wav
+lokey=51 hikey=51
+pitch_keycenter=51
+offset=0
+end=165196
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\E3.wav
+lokey=52 hikey=52
+pitch_keycenter=52
+offset=0
+end=170477
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\F3.wav
+lokey=53 hikey=53
+pitch_keycenter=53
+offset=0
+end=168213
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\F#3.wav
+lokey=54 hikey=54
+pitch_keycenter=54
+offset=0
+end=170026
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\G3.wav
+lokey=55 hikey=55
+pitch_keycenter=55
+offset=0
+end=167128
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\G#3.wav
+lokey=56 hikey=56
+pitch_keycenter=56
+offset=0
+end=166854
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\A3.wav
+lokey=57 hikey=57
+pitch_keycenter=57
+offset=0
+end=167048
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\A#3.wav
+lokey=58 hikey=58
+pitch_keycenter=58
+offset=0
+end=167916
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\B3.wav
+lokey=59 hikey=59
+pitch_keycenter=59
+offset=0
+end=167842
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\C4.wav
+lokey=60 hikey=60
+pitch_keycenter=60
+offset=0
+end=168047
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\C#4.wav
+lokey=61 hikey=61
+pitch_keycenter=61
+offset=0
+end=168359
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\D4.wav
+lokey=62 hikey=62
+pitch_keycenter=62
+offset=0
+end=171189
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\D#4.wav
+lokey=63 hikey=63
+pitch_keycenter=63
+offset=0
+end=166019
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\E4.wav
+lokey=64 hikey=64
+pitch_keycenter=64
+offset=0
+end=167796
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\F4.wav
+lokey=65 hikey=65
+pitch_keycenter=65
+offset=0
+end=167988
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\F#4.wav
+lokey=66 hikey=66
+pitch_keycenter=66
+offset=0
+end=165932
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\G4.wav
+lokey=67 hikey=67
+pitch_keycenter=67
+offset=0
+end=166908
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\G#4.wav
+lokey=68 hikey=68
+pitch_keycenter=68
+offset=0
+end=168063
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\A4.wav
+lokey=69 hikey=69
+pitch_keycenter=69
+offset=0
+end=170225
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\A#4.wav
+lokey=70 hikey=70
+pitch_keycenter=70
+offset=0
+end=167035
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\B4.wav
+lokey=71 hikey=71
+pitch_keycenter=71
+offset=0
+end=168213
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\C5.wav
+lokey=72 hikey=72
+pitch_keycenter=72
+offset=0
+end=168395
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\C#5.wav
+lokey=73 hikey=73
+pitch_keycenter=73
+offset=0
+end=170019
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\D5.wav
+lokey=74 hikey=74
+pitch_keycenter=74
+offset=0
+end=168773
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\D#5.wav
+lokey=75 hikey=75
+pitch_keycenter=75
+offset=0
+end=170750
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\E5.wav
+lokey=76 hikey=76
+pitch_keycenter=76
+offset=0
+end=171219
+loop_start=0
+loop_end=0
+
+<region>
+sample=samples\F5.wav
+lokey=77 hikey=77
+pitch_keycenter=77
+offset=0
+end=169302
+loop_start=0
+loop_end=0
